@@ -1102,7 +1102,7 @@ img {
     flex-shrink: 0;
 }
 
-.checkbox-input:checked+label>span {
+.checkbox-input:checked+label>.checkbox-span {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
